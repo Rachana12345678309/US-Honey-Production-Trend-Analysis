@@ -80,4 +80,3 @@ The notebook includes the following steps:
 5. Open the notebook:
    Jupyter Notebook 8_casestudy_honeyproduction.ipynb
    or upload it to Google Colab and adjust the CSV path (e.g., /content/US_honey_dataset (1).csv). 
-7. 
